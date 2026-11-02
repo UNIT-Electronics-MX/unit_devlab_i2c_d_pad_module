@@ -28,8 +28,6 @@ The DevLab I2C D-Pad Module is an I2C directional input module in the UNIT Elect
 | Available visuals | Product-specific top and bottom board views |
 | Factory I2C Address | `0x27` (7-bit) |
 | DDP Device ID | `0x0107` |
-| Firmware Status | Stable |
-| Firmware .bin Date | 2026-10-21 11:21 CST |
 
 ## Applications
 
