@@ -29,7 +29,9 @@ A dedicated functional block diagram is not included in the available product-sp
 
 ![DevLab I2C D-Pad Module bottom view](resources/unit_btm_v_1_2_0_ue0173_i2c_d_pad_module_3d.png)
 
-A product-specific electrical schematic is not included in the available files.
+### Schematic
+
+[UE0173 Rev 1.0.0 schematic](unit_sch_v_1_0_0_ue0173_i2c_d-pad_module.pdf)
 
 ## Pinout
 
@@ -65,3 +67,4 @@ The DevLab I2C D-Pad Module is an I2C directional input module in the UNIT Elect
 
 - [Product Reference](../docs/hardware/unit_product_reference_v_1_1_0_ue0173_devlab_i2c_d_pad_module.pdf)
 - [Product Reference source](../tools/product-reference/README.md)
+- [Electrical schematic](unit_sch_v_1_0_0_ue0173_i2c_d-pad_module.pdf)
