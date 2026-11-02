@@ -2,7 +2,11 @@
 
 ## Hardware Scope
 
-This page records the available hardware files for **DevLab I2C D-Pad Module** (MPN **UE0173**). Values not supported by a product-specific drawing or schematic remain unspecified.
+This page records the available hardware files for **DevLab I2C D-Pad Module**. Values not supported by a product-specific drawing or schematic remain unspecified.
+
+| Field | Value |
+|---|---|
+| MPN | UE0173 |
 
 ## Power Tree
 
@@ -16,7 +20,6 @@ A dedicated functional block diagram is not included in the available product-sp
 
 - Product name: **DevLab I2C D-Pad Module**.
 - Product family: **UNIT DevLab ecosystem**.
-- MPN: **UE0173**.
 - Existing source filenames retain their published names and revisions.
 - Generated Product Reference: `unit_product_reference_v_1_1_0_ue0173_devlab_i2c_d_pad_module.pdf`.
 

@@ -1,7 +1,5 @@
 # DevLab I2C D-Pad Module
 
-**MPN: UE0173**
-
 The DevLab I2C D-Pad Module is an I2C directional input module in the UNIT Electronics DevLab family.
 
 <div align="center">
