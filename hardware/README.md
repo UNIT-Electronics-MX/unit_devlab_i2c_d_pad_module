@@ -29,36 +29,29 @@ A dedicated functional block diagram is not included in the available product-sp
 
 ![DevLab I2C D-Pad Module bottom view](resources/unit_btm_v_1_2_0_ue0173_i2c_d_pad_module_3d.png)
 
-# Hardware
+### Schematic
 
-<div align="center">
-<a href="./unit_sch_v_1_0_0_ue0173_i2c_d-pad_module.pdf"><img src="./resources/Schematics_icon.jpg" width="200px"><br/>Schematic</a>
-</div>
+[UE0164 Rev 1.0.0 schematic](./unit_sch_v_1_0_0_ue0173_i2c_d-pad_module.pdf)
 
 ## Pinout
 
-<div align="center">
-<a href="./unit_pinout_v_1_2_0_ue0173_i2c_d-pad_module_en.pdf">
-<img src="./resources/unit_pinout_v_1_2_0_ue0173_i2c_d-pad_module_en.png" width="500px"><br/>
-Pinout
-</a>
-</div>
+- [English pinout](./unit_pinout_v_1_2_0_ue0173_i2c_d-pad_module_en.pdf)
+- [Spanish pinout](./unit_pinout_v_1_2_0_ue0173_i2c_d-pad_module_es.pdf)
 
 ## Dimensions
 
-<div align="center">
-<a href="./unit_dimensions_v_1_2_0_ue0173_i2c_d-pad_module.pdf"><img src="./resources/unit_dimensions_v_1_2_0_ue0173_i2c_d-pad_module.png" width="500px"><br/> Dimensions</a>
-</div>
+- [Board dimensions preview](./resources/unit_dimensions_v_1_2_0_ue0173_i2c_d-pad_module.png)
+- [Board dimensions PDF](./unit_dimensions_v_1_2_0_ue0173_i2c_d-pad_module.pdf)
+- [STEP model](./mechanics/)
+
+Use the supplied drawings for layout. Confirm electrical limits, connector
+orientation, and mechanical tolerances against product-specific sources before
+using the board in a final assembly.
 
 ## Topology
 
-<div align="center">
+- [Board topology](./resources/unit_topology_v_1_2_0_ue0173_i2c_d-pad_module.png)
 
-<div align="center">
-<a href="./resources/unit_topology_v_1_2_0_ue0173_i2c_d-pad_module.png"><img src="./resources/unit_topology_v_1_2_0_ue0173_i2c_d-pad_module.png" width="500px"><br/> Topology</a>
-<br/>
-<br/>
-<br/>
 
 ## Pin & Connector Layout
 
