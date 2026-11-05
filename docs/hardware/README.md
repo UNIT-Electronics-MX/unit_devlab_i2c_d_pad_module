@@ -29,25 +29,36 @@ A dedicated functional block diagram is not included in the available product-sp
 
 ![DevLab I2C D-Pad Module bottom view](resources/unit_btm_v_1_2_0_ue0173_i2c_d_pad_module_3d.png)
 
-### Schematic
+# Hardware
 
-[UE0173 Rev 1.0.0 schematic](unit_sch_v_1_0_0_ue0173_i2c_d-pad_module.pdf)
+<div align="center">
+<a href="./unit_sch_v_1_0_0_ue0173_i2c_d-pad_module.pdf"><img src="./resources/Schematics_icon.jpg" width="200px"><br/>Schematic</a>
+</div>
 
 ## Pinout
 
-A product-specific pinout drawing was not included in the selected source package.
-
-Board renders show the supplied layout. Confirm electrical limits, connector
-orientation, and mechanical tolerances against product-specific drawings before
-using the board in a final assembly.
+<div align="center">
+<a href="./unit_pinout_v_1_2_0_ue0173_i2c_d-pad_module_en.pdf">
+<img src="./resources/unit_pinout_v_1_2_0_ue0173_i2c_d-pad_module_en.png" width="500px"><br/>
+Pinout
+</a>
+</div>
 
 ## Dimensions
 
-A controlled board-dimension drawing is not included in the available product-specific files.
+<div align="center">
+<a href="./unit_dimensions_v_1_2_0_ue0173_i2c_d-pad_module.pdf"><img src="./resources/unit_dimensions_v_1_2_0_ue0173_i2c_d-pad_module.png" width="500px"><br/> Dimensions</a>
+</div>
 
 ## Topology
 
-A separate board-topology drawing is not included in the available product-specific files.
+<div align="center">
+
+<div align="center">
+<a href="./resources/unit_topology_v_1_2_0_ue0173_i2c_d-pad_module.png"><img src="./resources/unit_topology_v_1_2_0_ue0173_i2c_d-pad_module.png" width="500px"><br/> Topology</a>
+<br/>
+<br/>
+<br/>
 
 ## Pin & Connector Layout
 
