@@ -42,7 +42,7 @@ A dedicated functional block diagram is not included in the available product-sp
 
 - [Board dimensions preview](./resources/unit_dimensions_v_1_2_0_ue0173_i2c_d-pad_module.png)
 - [Board dimensions PDF](./unit_dimensions_v_1_2_0_ue0173_i2c_d-pad_module.pdf)
-- [STEP model](./mechanics/)
+- [STEP model](./mechanics/unit_3d_v_1_2_0_ue0173_i2c_d-pad_module.step)
 
 Use the supplied drawings for layout. Confirm electrical limits, connector
 orientation, and mechanical tolerances against product-specific sources before
